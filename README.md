@@ -22,4 +22,19 @@ SustainableWeb is a project that is continually evolving and being enhanced. Som
 
 These improvements will further enhance the functionality and user experience of SustainableWeb, making it a more comprehensive and impactful platform for promoting sustainability.
 
+##How to see the website
+1. **Install Dependencies**: Make sure you have all the required dependencies installed. You can do this by running:
+  pip install -r requirements.txt
+2. Ensure you have Python installed on your system.
+3. Clone this repository.
+4. Navigate to the project directory in your terminal.
+5. Run the following command:
+    flask run
+6. Open your browser through terminal
+
+Heres a sneak peak... 
+
+<img width="1440" alt="Screen Shot 2024-02-29 at 21 03 13" src="https://github.com/rebeca-bc/sustainableWeb/assets/110065563/213bde16-756e-4a17-ae02-3b70c46268dd">
+<img width="1440" alt="Screen Shot 2024-02-29 at 21 03 47" src="https://github.com/rebeca-bc/sustainableWeb/assets/110065563/18e1e793-7f55-4c6d-9e58-738609c5131b">
+
 _Credits to W3Templates_
