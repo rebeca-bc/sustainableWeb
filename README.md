@@ -22,7 +22,7 @@ SustainableWeb is a project that is continually evolving and being enhanced. Som
 
 These improvements will further enhance the functionality and user experience of SustainableWeb, making it a more comprehensive and impactful platform for promoting sustainability.
 
-##How to see the website
+## How to see the website
 1. **Install Dependencies**: Make sure you have all the required dependencies installed. You can do this by running:
   pip install -r requirements.txt
 2. Ensure you have Python installed on your system.
